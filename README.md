@@ -1,6 +1,6 @@
 ## Dice Challenge just to impliment J-Query.
 
-### To cole this repository run on your terminal:
+### To clone this repository run on your terminal:
 
 > git clone https://github.com/FrancisMurayaDev/dice-challenge.git
 
